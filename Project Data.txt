@@ -1,0 +1,14 @@
+           Project Data
+
+problem link: https://www.kaggle.com/competitions/microsoft-malware-prediction
+
+Input 
+ 1-Train : /kaggle/input/microsoft-malware-  prediction/train.csv
+
+  2-Test : /kaggle/input/microsoft-malware-prediction/test.csv
+
+Notebook : https://www.kaggle.com/code/khaledmousaalimousa/model-1
+
+Presentation: https://prezi.com/view/Ok3kf95b2OIIupE64pIE/
+
+   
